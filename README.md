@@ -8,4 +8,7 @@
  * https://www.freesound.org
  
  ## OpenglES
- ** http://www.learnopengles.com
+ * http://www.learnopengles.com
+ 
+ ## Game blogs
+ * http://nielson.io/
