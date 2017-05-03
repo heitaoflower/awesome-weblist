@@ -2,13 +2,16 @@
  Record valuable websites, blogs, welcome to share !
  ***
  ## Assets
- * https://opengameart.org/
+ * https://opengameart.org
  
  ## Sounds
  * https://www.freesound.org
  
- ## OpenglES
+ ## Fonts
+ * http://www.dafont.com
+ 
+ ## Graphics
  * http://www.learnopengles.com
  
- ## Game blogs
- * http://nielson.io/
+ ## Games
+ * http://nielson.io
