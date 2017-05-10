@@ -57,3 +57,6 @@
  * http://poolsofchrome.tumblr.com/
  * http://missmoocodes.tumblr.com/
  * http://artperski.tumblr.com/
+ 
+ ## ANDROID
+ * http://hukai.me/blog/archives/
