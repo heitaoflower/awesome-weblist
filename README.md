@@ -31,7 +31,6 @@
  * http://carlgamedev.tumblr.com/
  * http://radiumsoftware.tumblr.com/
  * https://adamgryu.tumblr.com/
- * http://eta-gamedev.tumblr.com/
  * http://conradpfay.tumblr.com/
  * http://theironyfactory.tumblr.com/
  * http://fabulargame.tumblr.com/
