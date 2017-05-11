@@ -45,8 +45,6 @@
  * http://whiteguysucksatgamedev.tumblr.com/
  * https://otto-hahn-herrera.tumblr.com/
  * https://flipside-llc.tumblr.com/
- * http://devmidgard.tumblr.com/
- * http://pestoforce.tumblr.com/
  
  ## VR
  * http://smus.com
