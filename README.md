@@ -40,8 +40,6 @@
  * http://wandwars.tumblr.com/
  * http://anthony-pismarov.tumblr.com/
  * http://oddlydrawn-dev.tumblr.com/
- * https://familiarsguild.tumblr.com/
- * https://twitter.com/mcfunkypants
  * http://whiteguysucksatgamedev.tumblr.com/
  
  ## VR
