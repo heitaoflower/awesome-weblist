@@ -37,9 +37,6 @@
  * http://conradpfay.tumblr.com/
  * http://theironyfactory.tumblr.com/
  * http://fabulargame.tumblr.com/
- * http://wandwars.tumblr.com/
- * http://anthony-pismarov.tumblr.com/
- * http://oddlydrawn-dev.tumblr.com/
  * http://whiteguysucksatgamedev.tumblr.com/
  
  ## VR
@@ -51,6 +48,8 @@
  * http://poolsofchrome.tumblr.com/
  * http://missmoocodes.tumblr.com/
  * http://artperski.tumblr.com/
+ * http://anthony-pismarov.tumblr.com/
+ * http://wandwars.tumblr.com/
  
  ## ANDROID
  * http://hukai.me/blog/archives/
