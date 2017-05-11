@@ -27,17 +27,16 @@
  * http://outbuddies.tumblr.com/
  * https://polymatheddy-blog.tumblr.com/
  * http://openglair.tumblr.com/
- * https://dadbeatdads.tumblr.com/
  * http://cashoutdev.tumblr.com/
  * http://carlgamedev.tumblr.com/
  * http://radiumsoftware.tumblr.com/
- * https://theheavensgame.tumblr.com/
  * https://adamgryu.tumblr.com/
  * http://eta-gamedev.tumblr.com/
  * http://conradpfay.tumblr.com/
  * http://theironyfactory.tumblr.com/
  * http://fabulargame.tumblr.com/
  * http://whiteguysucksatgamedev.tumblr.com/
+ * http://vfxmike.blogspot.hk/
  
  ## VR
  * http://smus.com
