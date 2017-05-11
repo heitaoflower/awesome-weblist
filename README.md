@@ -38,6 +38,7 @@
  * http://whiteguysucksatgamedev.tumblr.com/
  * http://vfxmike.blogspot.hk/
  * https://forums.tigsource.com
+ * http://cano-dev.blogspot.hk
  
  ## VR
  * http://smus.com
