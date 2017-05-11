@@ -44,7 +44,6 @@
  * https://twitter.com/mcfunkypants
  * http://whiteguysucksatgamedev.tumblr.com/
  * https://otto-hahn-herrera.tumblr.com/
- * https://flipside-llc.tumblr.com/
  
  ## VR
  * http://smus.com
