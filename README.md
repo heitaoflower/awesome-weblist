@@ -21,12 +21,9 @@
  * https://zackbellgames.com
  * http://ludumdare.com/compo
  * http://nehe.gamedev.net
- * https://adamgryu.tumblr.com
  * https://canotico.tumblr.com/
  * http://openglair.tumblr.com/
  * http://radiumsoftware.tumblr.com/
- * https://adamgryu.tumblr.com/
- * http://conradpfay.tumblr.com/
  * http://whiteguysucksatgamedev.tumblr.com/
  * http://vfxmike.blogspot.hk/
  * https://forums.tigsource.com
