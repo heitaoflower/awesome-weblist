@@ -23,14 +23,11 @@
  * http://nehe.gamedev.net
  * https://adamgryu.tumblr.com
  * https://canotico.tumblr.com/
- * https://godsgiftgame.tumblr.com/
  * http://openglair.tumblr.com/
- * http://carlgamedev.tumblr.com/
  * http://radiumsoftware.tumblr.com/
  * https://adamgryu.tumblr.com/
  * http://conradpfay.tumblr.com/
  * http://theironyfactory.tumblr.com/
- * http://fabulargame.tumblr.com/
  * http://whiteguysucksatgamedev.tumblr.com/
  * http://vfxmike.blogspot.hk/
  * https://forums.tigsource.com
