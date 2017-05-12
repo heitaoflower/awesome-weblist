@@ -27,7 +27,6 @@
  * http://radiumsoftware.tumblr.com/
  * https://adamgryu.tumblr.com/
  * http://conradpfay.tumblr.com/
- * http://theironyfactory.tumblr.com/
  * http://whiteguysucksatgamedev.tumblr.com/
  * http://vfxmike.blogspot.hk/
  * https://forums.tigsource.com
