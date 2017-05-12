@@ -22,13 +22,9 @@
  * http://ludumdare.com/compo
  * http://nehe.gamedev.net
  * https://adamgryu.tumblr.com
- * https://zer0dev-blog.tumblr.com
  * https://canotico.tumblr.com/
  * https://godsgiftgame.tumblr.com/
- * http://outbuddies.tumblr.com/
- * https://polymatheddy-blog.tumblr.com/
  * http://openglair.tumblr.com/
- * http://cashoutdev.tumblr.com/
  * http://carlgamedev.tumblr.com/
  * http://radiumsoftware.tumblr.com/
  * https://adamgryu.tumblr.com/
