@@ -21,13 +21,12 @@
  * https://zackbellgames.com
  * http://ludumdare.com/compo
  * http://nehe.gamedev.net
- * https://canotico.tumblr.com/
+ * http://www.redblobgames.com/
  * http://openglair.tumblr.com/
  * http://radiumsoftware.tumblr.com/
  * http://whiteguysucksatgamedev.tumblr.com/
  * http://vfxmike.blogspot.hk/
  * https://forums.tigsource.com
- * http://cano-dev.blogspot.hk
  * http://t-machine.org
  ## VR
  * http://smus.com
