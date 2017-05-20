@@ -14,6 +14,7 @@
  * http://www.learnopengles.com
  * http://www.opengpu.org
  * http://www.lighthouse3d.com
+ * https://vulkan-tutorial.com
  
  ## Games
  * https://ldjam.com/games
