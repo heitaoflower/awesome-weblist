@@ -18,6 +18,7 @@
  ## Vulkan
  * https://github.com/jcoder58/VulkanResources
  * https://vulkan-tutorial.com
+ * http://www.vulkantutorials.net/
  
  ## Games
  * https://ldjam.com/games
