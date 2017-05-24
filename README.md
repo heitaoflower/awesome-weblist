@@ -40,7 +40,7 @@
  * http://gafferongames.com/
  * http://lspiroengine.com/
  * https://github.com/mattdesl/graphics-resources
- 
+ * http://gpuopen.com/games-cgi/
  ## VR
  * http://smus.com
  
