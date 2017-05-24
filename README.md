@@ -33,6 +33,11 @@
  * https://forums.tigsource.com
  * http://t-machine.org
  * http://mossmouth.tumblr.com/
+ * http://arkenthera.github.io/blog/
+ * https://knarkowicz.wordpress.com/2016/03/21/gdc-2016-presentations/
+ * https://bioglaze.blogspot.hk/
+ * http://arkenthera.github.io/blog/
+ 
  ## VR
  * http://smus.com
  
