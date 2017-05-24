@@ -37,6 +37,9 @@
  * https://knarkowicz.wordpress.com/2016/03/21/gdc-2016-presentations/
  * https://bioglaze.blogspot.hk/
  * http://arkenthera.github.io/blog/
+ * http://gafferongames.com/
+ * http://lspiroengine.com/
+ * https://github.com/mattdesl/graphics-resources
  
  ## VR
  * http://smus.com
