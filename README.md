@@ -42,6 +42,8 @@
  * http://lspiroengine.com/
  * https://github.com/mattdesl/graphics-resources
  * http://gpuopen.com/games-cgi/
+ * http://www.theappguruz.com/blog
+ 
  ## VR
  * http://smus.com
  
