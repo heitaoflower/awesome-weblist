@@ -1,4 +1,4 @@
-# Awesome Weblist
+# awesome-weblist
  Record valuable websites, blogs, welcome to share !
  ***
  ## Assets
