@@ -48,6 +48,7 @@
  
  ## VR
  * http://smus.com
+ * http://blogs.valvesoftware.com/abrash/
  
  ## ARTIST
  * http://fluffydumplin.tumblr.com/
