@@ -45,6 +45,7 @@
  * http://gpuopen.com/games-cgi/
  * http://www.theappguruz.com/blog
  * https://itch.io/
+ * http://www.gdcvault.com/
  
  ## VR
  * http://smus.com
