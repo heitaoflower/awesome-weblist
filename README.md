@@ -10,6 +10,9 @@
  ## Fonts
  * http://www.dafont.com
  
+ ## PowerVR
+ * https://www.imgtec.com/blog
+ 
  ## OpenGL
  * http://www.learnopengles.com
  * http://www.opengpu.org
