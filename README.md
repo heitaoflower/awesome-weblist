@@ -10,6 +10,9 @@
  ## Fonts
  * http://www.dafont.com
  
+ ## Nvidia
+ https://developer.nvidia.com/
+ 
  ## PowerVR
  * https://www.imgtec.com/blog
  
