@@ -56,6 +56,7 @@
  ## VR
  * http://smus.com
  * http://blogs.valvesoftware.com/abrash/
+ * http://rifty-business.blogspot.hk/
  
  ## ARTIST
  * http://fluffydumplin.tumblr.com/
