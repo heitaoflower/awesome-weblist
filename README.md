@@ -77,3 +77,6 @@
  
  ## BITCOIN
  * http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/
+ 
+ ## AUDIO & VIDEO
+ * http://blog.csdn.net/leixiaohua1020/article/details/47008825/
