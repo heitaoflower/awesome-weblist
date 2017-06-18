@@ -58,6 +58,7 @@
  * http://blogs.valvesoftware.com/abrash/
  * http://rifty-business.blogspot.hk/
  * http://blog.csdn.net/dabenxiong666
+ * http://www.trungtuanle.com/static_page/index
  
  ## ARTIST
  * http://fluffydumplin.tumblr.com/
