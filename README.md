@@ -61,7 +61,7 @@
  * http://blog.csdn.net/dabenxiong666
  * http://www.trungtuanle.com/static_page/index
  
- ## ARTIST
+ ## Artist
  * http://fluffydumplin.tumblr.com/
  * https://garrettorious.tumblr.com/
  * http://poolsofchrome.tumblr.com/
@@ -70,16 +70,14 @@
  * http://anthony-pismarov.tumblr.com/
  * http://wandwars.tumblr.com/
  
- ## ANDROID
+ ## Android
  * http://hukai.me/blog/archives/
  
- ## UNITY
+ ## Unity
  * http://catlikecoding.com/
  * http://codeartist.mx
  
- ## BITCOIN
- * http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/
- 
- ## AUDIO & VIDEO
+ ## Audio & Video
  * http://blog.csdn.net/leixiaohua1020/article/details/47008825/
  * http://blog.csdn.net/king1425
+ * http://dranger.com/ffmpeg/
