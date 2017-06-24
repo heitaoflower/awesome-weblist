@@ -20,6 +20,7 @@
  * http://www.learnopengles.com
  * http://www.opengpu.org
  * http://www.lighthouse3d.com
+ * https://learnopengl.com/
 
  ## Vulkan
  * https://github.com/jcoder58/VulkanResources
