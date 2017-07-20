@@ -15,6 +15,7 @@
  
  ## PowerVR
  * https://www.imgtec.com/blog
+ * https://www.imgtec.com/blog/tag/powervr-developers/
  
  ## OpenGL
  * http://www.learnopengles.com
