@@ -87,6 +87,7 @@
  * http://blog.csdn.net/king1425
  * http://dranger.com/ffmpeg/
  * https://www.codeproject.com/Articles/109639/nVLC
+ * http://dranger.com/ffmpeg/tutorial01.html
  
  ## C#
  http://www.mono-project.com/docs/advanced/pinvoke/
