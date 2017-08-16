@@ -48,8 +48,6 @@
  * http://mossmouth.tumblr.com/
  * http://arkenthera.github.io/blog/
  * https://knarkowicz.wordpress.com/2016/03/21/gdc-2016-presentations/
- * https://bioglaze.blogspot.hk/
- * http://arkenthera.github.io/blog/
  * http://gafferongames.com/
  * http://lspiroengine.com/
  * https://github.com/mattdesl/graphics-resources
@@ -61,7 +59,6 @@
  ## VR
  * http://smus.com
  * http://blogs.valvesoftware.com/abrash/
- * http://rifty-business.blogspot.hk/
  * http://blog.csdn.net/dabenxiong666
  * http://www.trungtuanle.com/static_page/index
  
