@@ -20,7 +20,6 @@
  ## OpenGL
  * http://www.learnopengles.com
  * http://www.opengpu.org
- * http://www.lighthouse3d.com
  * https://learnopengl.com/
  * http://opengl.datenwolf.net/gltut/html/index.html
  * http://cpp-rendering.io/
