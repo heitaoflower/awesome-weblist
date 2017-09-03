@@ -60,6 +60,7 @@
  * http://blogs.valvesoftware.com/abrash/
  * http://blog.csdn.net/dabenxiong666
  * http://www.trungtuanle.com/static_page/index
+ * https://vrguy.blogspot.hk/
  
  ## Artist
  * http://fluffydumplin.tumblr.com/
