@@ -29,6 +29,7 @@
  * https://vulkan-tutorial.com
  * http://www.vulkantutorials.net/
  * https://www.saschawillems.de
+ * https://alain.xyz/blog
  
  ## Games
  * https://gafferongames.com/
