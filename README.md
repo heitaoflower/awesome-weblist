@@ -89,7 +89,10 @@
  * http://dranger.com/ffmpeg/tutorial01.html
  
  ## C#
- http://www.mono-project.com/docs/advanced/pinvoke/
+ * http://www.mono-project.com/docs/advanced/pinvoke/
  
  # SERVER
  * http://www.l2jserver.com/
+
+# JNI
+* http://blog.csdn.net/qinjuning/article/details/7607214
