@@ -55,6 +55,7 @@
  * http://www.theappguruz.com/blog
  * https://itch.io/
  * http://www.gdcvault.com/
+ * https://www.3dgep.com/
  
  ## VR
  * http://smus.com
