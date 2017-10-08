@@ -90,6 +90,7 @@
  
  ## C#
  * http://www.mono-project.com/docs/advanced/pinvoke/
+ * https://manski.net/
  
  # SERVER
  * http://www.l2jserver.com/
