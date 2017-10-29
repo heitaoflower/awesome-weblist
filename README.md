@@ -57,6 +57,7 @@
  * http://www.gdcvault.com/
  * https://www.3dgep.com/
  * http://theliquidfire.com/
+ * http://devmag.org.za/page/2/
  ## VR
  * http://smus.com
  * http://blogs.valvesoftware.com/abrash/
