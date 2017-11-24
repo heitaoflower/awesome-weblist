@@ -24,6 +24,7 @@
  * http://opengl.datenwolf.net/gltut/html/index.html
  * http://cpp-rendering.io/
  * http://hhoppe.com/
+ * http://ellenack.com/
 
  ## Vulkan
  * https://github.com/jcoder58/VulkanResources
@@ -85,6 +86,7 @@
  * http://blog.theknightsofunity.com
  * https://spennerino.wordpress.com
  * http://flafla2.github.io
+ 
  ## Audio & Video
  * http://blog.csdn.net/leixiaohua1020/article/details/47008825/
  * http://blog.csdn.net/king1425
