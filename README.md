@@ -25,6 +25,7 @@
  * http://cpp-rendering.io/
  * http://hhoppe.com/
  * http://ellenack.com/
+ * https://colinbarrebrisebois.com/ 
 
  ## Vulkan
  * https://github.com/jcoder58/VulkanResources
@@ -98,12 +99,12 @@
  * http://www.mono-project.com/docs/advanced/pinvoke/
  * https://manski.net/
  
- # SERVER
+ ## SERVER
  * http://www.l2jserver.com/
 
-# JNI
-* http://blog.csdn.net/qinjuning/article/details/7607214
+ ## JNI
+ * http://blog.csdn.net/qinjuning/article/details/7607214
 
-# MATH
-* http://www.mathsisfun.com
-* http://mathinsight.org/
+ ## MATH
+ * http://www.mathsisfun.com
+ * http://mathinsight.org/
