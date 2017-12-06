@@ -67,6 +67,8 @@
  * http://blog.csdn.net/dabenxiong666
  * http://www.trungtuanle.com/static_page/index
  * https://vrguy.blogspot.hk/
+ * http://1503c8fb.wiz03.com/share/s/0l0YzX1SH4om2LW6_-2h9BlL3v-vKe2HSAaN2edOC53hPEjM
+ * http://1503c8fb.wiz03.com/share/s/0l0YzX1SH4om2LW6_-2h9BlL27YEWU0XHkYe2J787H3iNDP1
  
  ## Artist
  * http://fluffydumplin.tumblr.com/
