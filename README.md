@@ -11,7 +11,8 @@
  * http://www.dafont.com
  
  ## Nvidia
- https://developer.nvidia.com/
+ * https://developer.nvidia.com/
+ * http://docs.nvidia.com/gameworks/
  
  ## PowerVR
  * https://www.imgtec.com/blog
