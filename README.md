@@ -98,6 +98,7 @@
  * http://dranger.com/ffmpeg/
  * https://www.codeproject.com/Articles/109639/nVLC
  * http://dranger.com/ffmpeg/tutorial01.html
+ * http://m.blog.csdn.net/nonmarking
  
  ## C#
  * http://www.mono-project.com/docs/advanced/pinvoke/
