@@ -13,6 +13,7 @@
  ## Nvidia
  * https://developer.nvidia.com/
  * http://docs.nvidia.com/gameworks/
+ * https://developer.nvidia.com/gpugems/GPUGems
  
  ## PowerVR
  * https://www.imgtec.com/blog
@@ -63,6 +64,7 @@
  * http://theliquidfire.com/
  * http://devmag.org.za/page/2/
  * http://gulu-dev.com/
+ 
  ## VR
  * http://smus.com
  * http://blogs.valvesoftware.com/abrash/
