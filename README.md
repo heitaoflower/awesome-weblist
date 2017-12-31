@@ -10,6 +10,9 @@
  ## Fonts
  * http://www.dafont.com
  
+ ## Graphics
+ * http://www.humus.name
+ 
  ## Nvidia
  * https://developer.nvidia.com/
  * http://docs.nvidia.com/gameworks/
