@@ -70,6 +70,7 @@
  * http://ericw.ca/
  * http://ncase.me/
  * http://www.skywind.me/blog/
+ * https://csantosbh.wordpress.com/2014/01/25/manual-texture-filtering-for-pixelated-games-in-webgl/
  
  ## VR
  * http://smus.com
