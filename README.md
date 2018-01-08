@@ -71,6 +71,7 @@
  * http://ncase.me/
  * http://www.skywind.me/blog/
  * https://csantosbh.wordpress.com/2014/01/25/manual-texture-filtering-for-pixelated-games-in-webgl/
+ * https://coffeebraingames.wordpress.com/
  
  ## VR
  * http://smus.com
