@@ -12,6 +12,7 @@
  
  ## Graphics
  * http://www.humus.name
+ * http://felix.abecassis.me/
  
  ## Nvidia
  * https://developer.nvidia.com/
