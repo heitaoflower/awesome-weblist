@@ -36,6 +36,7 @@
  * http://ogldev.atspace.co.uk/index.html
  * http://www.gleam.graphics/
  * http://rastergrid.com/blog/
+ * http://outerra.blogspot.hk/
 
  ## Vulkan
  * https://github.com/jcoder58/VulkanResources
