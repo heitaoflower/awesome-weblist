@@ -116,7 +116,6 @@
  * http://blog.csdn.net/leixiaohua1020/article/details/47008825/
  * http://blog.csdn.net/king1425
  * http://dranger.com/ffmpeg/
- * https://www.codeproject.com/Articles/109639/nVLC
  * http://dranger.com/ffmpeg/tutorial01.html
  * http://m.blog.csdn.net/nonmarking
  * https://www.jianshu.com/u/fd6f2b25d0f4
@@ -134,3 +133,6 @@
  ## MATH
  * http://www.mathsisfun.com
  * http://mathinsight.org/
+
+ ## CODE
+ * https://www.codeproject.com
