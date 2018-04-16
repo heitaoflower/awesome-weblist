@@ -39,6 +39,7 @@
  * http://outerra.blogspot.hk/
  * http://www.lighthouse3d.com/tutorials/
  * https://bitlush.com/
+ * https://blog.csdn.net/jxw167
 
  ## Vulkan
  * https://github.com/jcoder58/VulkanResources
