@@ -40,6 +40,7 @@
  * http://www.lighthouse3d.com/tutorials/
  * https://bitlush.com/
  * https://blog.csdn.net/jxw167
+ * https://blog.csdn.net/toughbro
 
  ## Vulkan
  * https://github.com/jcoder58/VulkanResources
