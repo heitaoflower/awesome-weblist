@@ -15,6 +15,7 @@
  * http://www.humus.name
  * http://felix.abecassis.me/
  * http://www.linedef.com/
+ * http://www.scratchapixel.com/index.php
  
  ## Nvidia
  * https://developer.nvidia.com/
