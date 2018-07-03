@@ -142,3 +142,6 @@
 
  ## CODE
  * https://www.codeproject.com
+ 
+ ## MediaCodec
+ * https://bigflake.com/mediacodec/
