@@ -125,6 +125,7 @@
  * http://dranger.com/ffmpeg/tutorial01.html
  * http://m.blog.csdn.net/nonmarking
  * https://www.jianshu.com/u/fd6f2b25d0f4
+ * https://blog.csdn.net/coloriy/article/details/78693334
  
  ## C#
  * http://www.mono-project.com/docs/advanced/pinvoke/
