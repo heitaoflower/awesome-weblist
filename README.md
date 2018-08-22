@@ -122,7 +122,6 @@
  * http://blog.csdn.net/leixiaohua1020/article/details/47008825/
  * http://blog.csdn.net/king1425
  * http://dranger.com/ffmpeg/
- * http://dranger.com/ffmpeg/tutorial01.html
  * http://m.blog.csdn.net/nonmarking
  * https://www.jianshu.com/u/fd6f2b25d0f4
  * https://blog.csdn.net/coloriy/article/details/78693334
