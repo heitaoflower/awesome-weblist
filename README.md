@@ -17,6 +17,7 @@
  * http://www.linedef.com/
  * http://www.scratchapixel.com/index.php
  * https://www.cs.cmu.edu/afs/cs/project/quake/public/www/triangle.html
+ * http://algorithmicbotany.org/papers/#abop
  
  ## Nvidia
  * https://developer.nvidia.com/
