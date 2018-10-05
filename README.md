@@ -16,6 +16,7 @@
  * http://felix.abecassis.me/
  * http://www.linedef.com/
  * http://www.scratchapixel.com/index.php
+ * https://www.cs.cmu.edu/afs/cs/project/quake/public/www/triangle.html
  
  ## Nvidia
  * https://developer.nvidia.com/
