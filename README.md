@@ -142,6 +142,7 @@
  ## MATH
  * http://www.mathsisfun.com
  * http://mathinsight.org/
+ * https://blog.csdn.net/u013351484
 
  ## CODE
  * https://www.codeproject.com
