@@ -21,6 +21,7 @@
  * https://www.keithlantz.net/
  * http://vterrain.org/
  * https://www.khronos.org/opengl/wiki/Code_Resources
+ * http://www-evasion.imag.fr/Membres/Eric.Bruneton/
  
  ## Nvidia
  * https://developer.nvidia.com/
