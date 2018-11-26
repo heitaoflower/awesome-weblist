@@ -137,6 +137,9 @@
  * http://www.mono-project.com/docs/advanced/pinvoke/
  * https://manski.net/
  
+ ## CPP
+ * https://www.learncpp.com/
+ 
  ## SERVER
  * http://www.l2jserver.com/
 
