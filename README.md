@@ -23,6 +23,7 @@
  * https://www.khronos.org/opengl/wiki/Code_Resources
  * http://www-evasion.imag.fr/Membres/Eric.Bruneton/
  * http://www.codinglabs.net/
+ * http://holger.dammertz.org/index.html
  
  ## Nvidia
  * https://developer.nvidia.com/
