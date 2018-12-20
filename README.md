@@ -30,6 +30,7 @@
  
  ## Engines
  * https://ourmachinery.com/post
+ * https://blog.molecular-matters.com/
  
  ## Nvidia
  * https://developer.nvidia.com/
