@@ -175,3 +175,6 @@
  
  ## CV
  * http://johnhany.net/
+ 
+ ## PAGES
+ * http://jcgt.org/read.html?reload=1
