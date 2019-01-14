@@ -179,6 +179,6 @@
  ## CV
  * http://johnhany.net/
  
- ## PAGES
+ ## PAPERS
  * http://jcgt.org/read.html?reload=1
  * https://www.cg.tuwien.ac.at
