@@ -180,6 +180,7 @@
  
  ## CV
  * http://johnhany.net/
+ * http://www.cvlibs.net/index.php
  
  ## PAPERS
  * http://jcgt.org/read.html?reload=1
