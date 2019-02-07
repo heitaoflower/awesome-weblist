@@ -174,6 +174,9 @@
  
  ## MediaCodec
  * https://bigflake.com/mediacodec/
+ 
+ ## Camera
+ * https://www.cnblogs.com/jukan/p/9896284.html
 
  ## Botany
  * https://blog.csdn.net/Mahabharata_
