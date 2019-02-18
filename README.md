@@ -72,6 +72,9 @@
  * https://www.saschawillems.de
  * https://alain.xyz/blog
  
+ ## Animation
+ * http://www.lewis-ward.com
+ 
  ## Games
  * https://gafferongames.com/
  * https://ldjam.com/games
