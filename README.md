@@ -74,6 +74,7 @@
  
  ## Animation
  * http://www.lewis-ward.com
+ * https://nfrechette.github.io/
  
  ## Games
  * https://gafferongames.com/
