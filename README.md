@@ -4,6 +4,7 @@
  ## Assets
  * https://opengameart.org
  * https://archive3d.net/
+ * http://people.csail.mit.edu/sumner/research/deftransfer/data.html
  
  ## Sounds
  * https://www.freesound.org
