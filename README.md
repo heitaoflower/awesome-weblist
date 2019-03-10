@@ -5,6 +5,7 @@
  * https://opengameart.org
  * https://archive3d.net/
  * http://people.csail.mit.edu/sumner/research/deftransfer/data.html
+ * https://free3d.com
  
  ## Sounds
  * https://www.freesound.org
