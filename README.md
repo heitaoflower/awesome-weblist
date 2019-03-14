@@ -24,7 +24,6 @@
  * http://vterrain.org/
  * https://www.khronos.org/opengl/wiki/Code_Resources
  * http://www-evasion.imag.fr/Membres/Eric.Bruneton/
- * http://www.codinglabs.net/
  * http://holger.dammertz.org/index.html
  * http://glampert.com/
  * http://www.mit.edu/~ibaran/
@@ -34,6 +33,9 @@
  * http://www.nutty.ca
  * https://knarkowicz.wordpress.com/
  * http://multi-crash.com/
+ 
+ ## PBR
+ * http://www.codinglabs.net/
  
  ## Engines
  * https://ourmachinery.com/post
