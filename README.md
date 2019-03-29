@@ -33,9 +33,10 @@
  * http://www.nutty.ca
  * https://knarkowicz.wordpress.com/
  * http://multi-crash.com/
- 
+
  ## PBR
  * http://www.codinglabs.net/
+ * http://www.trentreed.net/
  
  ## Engines
  * https://ourmachinery.com/post
