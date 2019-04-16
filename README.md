@@ -33,6 +33,7 @@
  * http://www.nutty.ca
  * https://knarkowicz.wordpress.com/
  * http://multi-crash.com/
+ * http://www.ntaylorbishop.com/masters-thesis.html
 
  ## PBR
  * http://www.codinglabs.net/
