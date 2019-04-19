@@ -17,7 +17,6 @@
  * http://www.humus.name
  * http://felix.abecassis.me/
  * http://www.linedef.com/
- * http://www.scratchapixel.com/index.php
  * https://www.cs.cmu.edu/afs/cs/project/quake/public/www/triangle.html
  * http://algorithmicbotany.org/papers/#abop
  * https://www.keithlantz.net/
@@ -183,6 +182,7 @@
  * http://blog.miskcoo.com/
  * https://www.cnblogs.com/ezoiLZH/archive/2018/04/27/8898165.html
  * http://immersivemath.com/ila/index.html
+ * http://www.scratchapixel.com/index.php
 
  ## CODE
  * https://www.codeproject.com
