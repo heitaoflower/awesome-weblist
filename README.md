@@ -14,13 +14,13 @@
  * http://www.dafont.com
  
  ## Graphics
-| link      | keywords |
+| link       | keywords       |
 | ---------- | :-----------:  |
-| http://glampert.com/     | c++, opengl, virtual texture, editor     |
+| http://glampert.com/    | virtual texture, editor     |
+| http://www.linedef.com/ | virtual texture             |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
- * http://www.linedef.com/
  * https://www.cs.cmu.edu/afs/cs/project/quake/public/www/triangle.html
  * http://algorithmicbotany.org/papers/#abop
  * https://www.keithlantz.net/
