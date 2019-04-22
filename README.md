@@ -16,8 +16,8 @@
  ## Graphics
 | link       | keywords       |
 | ---------- | :-----------:  |
-| http://glampert.com/    | virtual texture, editor     |
-| http://www.linedef.com/ | virtual texture             |
+| http://glampert.com    | virtual texture, editor     |
+| http://www.linedef.com | virtual texture             |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
