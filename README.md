@@ -14,6 +14,10 @@
  * http://www.dafont.com
  
  ## Graphics
+| link      | keywords |
+| ---------- | :-----------:  |
+| http://glampert.com/     | c++, opengl, virtual texture, editor     |
+
  * http://www.humus.name
  * http://felix.abecassis.me/
  * http://www.linedef.com/
@@ -24,7 +28,6 @@
  * https://www.khronos.org/opengl/wiki/Code_Resources
  * http://www-evasion.imag.fr/Membres/Eric.Bruneton/
  * http://holger.dammertz.org/index.html
- * http://glampert.com/
  * http://www.mit.edu/~ibaran/
  * https://voxels.blogspot.com
  * https://mynameismjp.wordpress.com/
