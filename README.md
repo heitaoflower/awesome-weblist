@@ -207,3 +207,8 @@
  ## PAPERS
  * http://jcgt.org/read.html?reload=1
  * https://www.cg.tuwien.ac.at
+
+ ## Format
+| link       | keywords       |
+| ---------- | :-----------:  |
+| https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/   | FBX based on ASCII     |
