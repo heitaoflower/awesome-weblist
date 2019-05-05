@@ -18,6 +18,7 @@
  | :--------- | :-----------:| :-------: |
 | http://glampert.com    | virtual texture, editor     | ★★★☆☆ |
 | http://www.linedef.com | virtual texture             | ★★★☆☆ |
+| https://amietia.com/virtualtexturing.html | virtual texture             | ★★★☆☆ |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
