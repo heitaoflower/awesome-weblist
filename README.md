@@ -14,10 +14,10 @@
  * http://www.dafont.com
  
  ## Graphics
-| link       | keywords       |
-| ---------- | :-----------:  |
-| http://glampert.com    | virtual texture, editor     |
-| http://www.linedef.com | virtual texture             |
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+| http://glampert.com    | virtual texture, editor     | ★★★ |
+| http://www.linedef.com | virtual texture             | ★★★ |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
@@ -213,6 +213,6 @@
  * https://www.cg.tuwien.ac.at
 
  ## Format
-| link       | keywords       |
-| ---------- | :-----------:  |
-| https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/   | FBX based on ASCII     |
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+| https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/  | FBX based on ASCII | ★★ |
