@@ -187,9 +187,9 @@
  * http://blog.miskcoo.com/
  * https://www.cnblogs.com/ezoiLZH/archive/2018/04/27/8898165.html
  * http://immersivemath.com/ila/index.html
- * http://www.scratchapixel.com/index.php
- | link       | keywords       | Stars   |
- | ---------- | :-----------:  | ------- |
+
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
  | http://www.scratchapixel.com/index.php  | All Math knowledge relevant to Graphics  | ★★★★★ |
 
  ## CODE
