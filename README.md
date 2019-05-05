@@ -16,8 +16,8 @@
  ## Graphics
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
-| http://glampert.com    | virtual texture, editor     | ★★★ |
-| http://www.linedef.com | virtual texture             | ★★★ |
+| http://glampert.com    | virtual texture, editor     | ★★★☆☆ |
+| http://www.linedef.com | virtual texture             | ★★★☆☆ |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
@@ -215,4 +215,4 @@
  ## Format
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
-| https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/  | FBX based on ASCII | ★★ |
+| https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/  | FBX based on ASCII | ★★☆☆☆ |
