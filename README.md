@@ -172,8 +172,15 @@
  * http://www.mono-project.com/docs/advanced/pinvoke/
  * https://manski.net/
  
+ ## C
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ |https://attractivechaos.wordpress.com/   | C, performance, tricky | ★★★★☆ |
+ 
  ## CPP
- * https://www.learncpp.com/
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ |https://www.learncpp.com/ | learning | ★★★★☆ |
  
  ## SERVER
  * http://www.l2jserver.com/
