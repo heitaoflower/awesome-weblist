@@ -223,4 +223,9 @@
  ## Format
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
-| https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/  | FBX based on ASCII | ★★☆☆☆ |
+ | https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/  | FBX based on ASCII | ★★☆☆☆ |
+ 
+ ## Book
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ | http://ebook-dl.com | PDF | ★★☆☆☆ |
