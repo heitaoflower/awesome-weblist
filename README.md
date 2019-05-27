@@ -189,7 +189,6 @@
  * http://blog.csdn.net/qinjuning/article/details/7607214
 
  ## MATH
- * http://www.mathsisfun.com
  * http://mathinsight.org/
  * https://blog.csdn.net/u013351484
  * http://blog.miskcoo.com/
@@ -199,6 +198,7 @@
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  | http://www.scratchapixel.com/index.php  | All Math knowledge relevant to Graphics  | ★★★★★ |
+ |  http://www.mathsisfun.com  | All Math knowledge relevant to Graphics  | ★★★★★ |
 
  ## CODE
  * https://www.codeproject.com
