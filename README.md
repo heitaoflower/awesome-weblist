@@ -198,7 +198,7 @@
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  | http://www.scratchapixel.com/index.php  | All Math knowledge relevant to Graphics  | ★★★★★ |
- |  http://www.mathsisfun.com  | All Math knowledge relevant to Graphics  | ★★★★★ |
+ |  http://www.mathsisfun.com  | All Fundamental Math knowledge | ★★★★★ |
 
  ## CODE
  * https://www.codeproject.com
