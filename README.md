@@ -187,6 +187,12 @@
 
  ## JNI
  * http://blog.csdn.net/qinjuning/article/details/7607214
+ 
+ ## Texture
+  | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ | http://chrishecker.com/Miscellaneous_Technical_Articles  | Texture all stuff  | ★★★★★ |
+ |  http://www.lysator.liu.se/~mikaelk/doc/perspectivetexture/  | Perspective texture mapping | ★★★★★ |
 
  ## MATH
  * http://mathinsight.org/
