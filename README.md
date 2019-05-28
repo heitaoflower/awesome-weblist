@@ -235,3 +235,5 @@
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  | http://ebook-dl.com | PDF | ★★☆☆☆ |
+ |  https://epdf.tips/ | PDF | ★★★★☆ |
+
