@@ -16,9 +16,9 @@
  ## Graphics
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
-| http://glampert.com    | virtual texture, editor     | ★★★☆☆ |
-| http://www.linedef.com | virtual texture             | ★★★☆☆ |
-| https://amietia.com/virtualtexturing.html | virtual texture             | ★★★☆☆ |
+| http://glampert.com    | virtual texture, editor            | ★★★☆☆ |
+| http://www.linedef.com | virtual texture                    | ★★★☆☆ |
+| https://amietia.com/virtualtexturing.html | virtual texture | ★★★☆☆ |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
@@ -58,9 +58,14 @@
  * https://www.imgtec.com/blog/tag/powervr-developers/
  
  ## OpenGL
- * http://www.learnopengles.com
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ | http://www.learnopengles.com    | tutorial           | ★★★☆☆ |
+ | http://www.opengl-tutorial.org  | tutorial           | ★★★☆☆ |
+ | https://learnopengl.com         |tutorial            | ★★★☆☆ |
+ | https://open.gl                 |tutorial            | ★★★☆☆ |
+ 
  * http://www.opengpu.org
- * https://learnopengl.com/
  * http://opengl.datenwolf.net/gltut/html/index.html
  * http://cpp-rendering.io/
  * http://hhoppe.com/
@@ -74,7 +79,6 @@
  * https://bitlush.com/
  * https://blog.csdn.net/jxw167
  * https://blog.csdn.net/toughbro
- * https://open.gl
  * https://paroj.github.io/gltut/
 
  ## Vulkan
