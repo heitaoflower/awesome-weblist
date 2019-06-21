@@ -72,10 +72,8 @@
  * http://ellenack.com/
  * https://colinbarrebrisebois.com/ 
  * http://ogldev.atspace.co.uk/index.html
- * http://www.gleam.graphics/
  * http://rastergrid.com/blog/
  * http://outerra.blogspot.hk/
- * http://www.lighthouse3d.com/tutorials/
  * https://bitlush.com/
  * https://blog.csdn.net/jxw167
  * https://blog.csdn.net/toughbro
