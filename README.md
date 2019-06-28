@@ -230,8 +230,11 @@
  * http://www.cvlibs.net/index.php
  
  ## PAPERS
- * http://jcgt.org/read.html?reload=1
- * https://www.cg.tuwien.ac.at
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ | http://jcgt.org/read.html?reload=1 | Computer Graphics Techniques | ★★★★☆ |
+ | https://www.cg.tuwien.ac.at        | Computer Graphics Techniques | ★★★★☆ |
+ | http://www.cs.toronto.edu/~jacobson/ | Geometry Processing        | ★★★☆☆ |
 
  ## WebGL
  | link       | keywords     | Stars     |
