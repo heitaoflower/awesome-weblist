@@ -2,10 +2,14 @@
  Record valuable websites, blogs, welcome to share !
  ***
  ## Assets
- * https://opengameart.org
- * https://archive3d.net/
- * http://people.csail.mit.edu/sumner/research/deftransfer/data.html
- * https://free3d.com
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ | https://opengameart.org    | model | ★★★☆☆ |
+ | https://archive3d.net/     | model | ★★★☆☆ |
+ | http://people.csail.mit.edu/sumner/research/deftransfer/data.html | model | ★★★☆☆ |
+ | https://free3d.com    | model | ★★★☆☆ |
+ | https://www.thesimsresource.com | women, girl, hair | ★★★☆☆ |
+ | http://www.newseasims.com/      | hair | ★★★☆☆ |
  
  ## Sounds
  * https://www.freesound.org
