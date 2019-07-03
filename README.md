@@ -244,7 +244,8 @@
  | http://jcgt.org/read.html?reload=1 | Computer Graphics Techniques | ★★★★☆ |
  | https://www.cg.tuwien.ac.at        | Computer Graphics Techniques | ★★★★☆ |
  | http://www.cs.toronto.edu/~jacobson/ | Geometry Processing        | ★★★☆☆ |
- | http://kesen.realtimerendering.com/ | Siggraph home               | ★★★★☆ |
+ | http://kesen.realtimerendering.com/  | Siggraph home              | ★★★★☆ |
+ | http://visgraph.cse.ust.hk/          | Graphics                   | ★★★★☆ |
 
  ## WebGL
  | link       | keywords     | Stars     |
