@@ -229,6 +229,11 @@
  ## Botany
  * https://blog.csdn.net/Mahabharata_
  
+ ## Skeleton
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ |  http://visgraph.cse.ust.hk/projects/skeleton/ | Skeleton, Rigging | ★★★★☆ |
+ 
  ## CV
  * http://johnhany.net/
  * http://www.cvlibs.net/index.php
