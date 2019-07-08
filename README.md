@@ -260,6 +260,6 @@
  ## Book
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
- | http://ebook-dl.com | PDF | ★★☆☆☆ |
- |  https://epdf.tips/ | PDF | ★★★★☆ |
+ | http://www.big-dl.com/| PDF | ★★☆☆☆ |
+ | https://epdf.tips/ | PDF | ★★★★☆ |
 
