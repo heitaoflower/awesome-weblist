@@ -247,6 +247,8 @@
  | http://www.cs.toronto.edu/~jacobson/ | Geometry Processing        | ★★★☆☆ |
  | http://kesen.realtimerendering.com/  | Siggraph home              | ★★★★☆ |
  | http://visgraph.cse.ust.hk/          | Graphics                   | ★★★★☆ |
+ | https://igl.ethz.ch/publications/    | Geometry                   | ★★★★☆ |
+
 
  ## WebGL
  | link       | keywords     | Stars     |
