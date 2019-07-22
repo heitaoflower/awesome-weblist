@@ -261,6 +261,7 @@
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  | https://banexdevblog.wordpress.com/2014/06/23/a-quick-tutorial-about-the-fbx-ascii-format/  | FBX based on ASCII | ★★☆☆☆ |
+ |  http://www.martinreddy.net/gfx/3d/OBJ.spec  | OBJ | ★★★★☆ |
  
  ## Book
  | link       | keywords     | Stars     |
