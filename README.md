@@ -191,6 +191,12 @@
  * http://www.mono-project.com/docs/advanced/pinvoke/
  * https://manski.net/
  
+ ## Java
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ | https://liuchi.coding.me/  | JVM | ★★★☆☆ |
+
+ 
  ## C
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
