@@ -10,6 +10,7 @@
  | https://free3d.com    | model | ★★★☆☆ |
  | https://www.thesimsresource.com | women, girl, hair | ★★★☆☆ |
  | http://www.newseasims.com/      | hair | ★★★☆☆ |
+ | https://hatchful.shopify.com | logo | ★★★☆☆ |
  
  ## Sounds
  * https://www.freesound.org
