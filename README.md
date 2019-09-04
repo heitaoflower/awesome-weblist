@@ -265,6 +265,7 @@
  | http://kesen.realtimerendering.com/  | Siggraph home              | ★★★★☆ |
  | http://visgraph.cse.ust.hk/          | Graphics                   | ★★★★☆ |
  | https://igl.ethz.ch/publications/    | Geometry                   | ★★★★☆ |
+ | http://cs.swan.ac.uk/~csmark/publications.html    | Geometry      | ★★★★☆ |
 
 
  ## WebGL
