@@ -233,8 +233,8 @@
  | https://www.cnblogs.com/ezoiLZH/archive/2018/04/27/8898165.html | FFT | ★★★☆☆ |
  | https://blog.csdn.net/u013351484 | FFT | ★★★☆☆ |
  | http://blog.miskcoo.com/  | Math knowledge | ★★★★★ |
- |  http://www-math.mit.edu/~djk/calculus_beginners/  | Calculus | ★★★★☆ |
-
+ | http://www-math.mit.edu/~djk/calculus_beginners/  | Calculus | ★★★★☆ |
+ | https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html  | Vector | ★☆☆☆☆ |
 
  ## CODE
  * https://www.codeproject.com
