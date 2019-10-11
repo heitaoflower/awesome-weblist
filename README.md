@@ -260,13 +260,15 @@
  ## PAPERS
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
- | http://jcgt.org/read.html?reload=1 | Computer Graphics Techniques | ★★★★☆ |
- | https://www.cg.tuwien.ac.at        | Computer Graphics Techniques | ★★★★☆ |
- | http://www.cs.toronto.edu/~jacobson/ | Geometry Processing        | ★★★☆☆ |
- | http://kesen.realtimerendering.com/  | Siggraph home              | ★★★★☆ |
- | http://visgraph.cse.ust.hk/          | Graphics                   | ★★★★☆ |
- | https://igl.ethz.ch/publications/    | Geometry                   | ★★★★☆ |
- | http://cs.swan.ac.uk/~csmark/publications.html    | Geometry      | ★★★★☆ |
+ | http://jcgt.org/read.html?reload=1 | Computer Graphics Techniques  | ★★★★☆ |
+ | https://www.cg.tuwien.ac.at        | Computer Graphics Techniques  | ★★★★☆ |
+ | http://www.cs.toronto.edu/~jacobson/ | Geometry Processing         | ★★★☆☆ |
+ | http://kesen.realtimerendering.com/  | Siggraph home               | ★★★★☆ |
+ | http://visgraph.cse.ust.hk/          | Graphics                    | ★★★★☆ |
+ | https://igl.ethz.ch/publications/    | Geometry                    | ★★★★☆ |
+ | http://cs.swan.ac.uk/~csmark/publications.html     | Geometry      | ★★★★☆ |
+ | https://www.animation.rwth-aachen.de/publications | Geometry,Animation | ★★★★☆ |
+
 
 
  ## WebGL
