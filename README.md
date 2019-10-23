@@ -24,6 +24,7 @@
  | http://glampert.com    | virtual texture, editor            | ★★★☆☆ |
  | http://www.linedef.com | virtual texture                    | ★★★☆☆ |
  | https://amietia.com/virtualtexturing.html | virtual texture | ★★★☆☆ |
+ | https://erkaman.github.io/index.html | geometry | ★★★★☆ |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
