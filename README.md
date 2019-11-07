@@ -269,6 +269,8 @@
  | https://igl.ethz.ch/publications/    | Geometry                    | ★★★★☆ |
  | http://cs.swan.ac.uk/~csmark/publications.html     | Geometry      | ★★★★☆ |
  | https://www.animation.rwth-aachen.de/publications | Geometry,Animation | ★★★★☆ |
+ | https://www.mpi-inf.mpg.de/publications/| Geometry,Animation | ★★★★☆ |
+ 
 
 
 
