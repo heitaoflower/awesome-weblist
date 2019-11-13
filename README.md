@@ -237,7 +237,7 @@
  | http://blog.miskcoo.com/  | Math knowledge | ★★★★★ |
  | http://www-math.mit.edu/~djk/calculus_beginners/  | Calculus | ★★★★☆ |
  | https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html  | Vector | ★☆☆☆☆ |
- | https://blog.demofox.org/  | Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis  | ★★★★★ |
+ | https://blog.demofox.org/  | Programming, Graphics | ★★★★★ |
 
  ## CODE
  * https://www.codeproject.com
