@@ -225,8 +225,7 @@
  * http://mathinsight.org
  * http://immersivemath.com/ila/index.html
  * http://blackpawn.com/texts/pointinpoly/default.html
- | https://blog.demofox.org/  | Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis  | ★★★★★ |
- 
+
 
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
@@ -238,6 +237,7 @@
  | http://blog.miskcoo.com/  | Math knowledge | ★★★★★ |
  | http://www-math.mit.edu/~djk/calculus_beginners/  | Calculus | ★★★★☆ |
  | https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html  | Vector | ★☆☆☆☆ |
+ | https://blog.demofox.org/  | Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis  | ★★★★★ |
 
  ## CODE
  * https://www.codeproject.com
@@ -274,8 +274,6 @@
  | https://www.mpi-inf.mpg.de/publications/| Geometry,Animation | ★★★★☆ |
  | http://graphics.stanford.edu/~kayvonf/notes/systemspaper/ |★★★★☆ |
  
-
-
 
  ## WebGL
  | link       | keywords     | Stars     |
