@@ -216,7 +216,7 @@
  * http://blog.csdn.net/qinjuning/article/details/7607214
  
  ## Texture
-  | link       | keywords     | Stars     |
+ | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  | http://chrishecker.com/Miscellaneous_Technical_Articles  | Texture all stuff  | ★★★★★ |
  |  http://www.lysator.liu.se/~mikaelk/doc/perspectivetexture/  | Perspective texture mapping | ★★★★★ |
@@ -225,6 +225,8 @@
  * http://mathinsight.org
  * http://immersivemath.com/ila/index.html
  * http://blackpawn.com/texts/pointinpoly/default.html
+ | https://blog.demofox.org/  | Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis  | ★★★★★ |
+ 
 
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
