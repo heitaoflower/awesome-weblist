@@ -208,6 +208,8 @@
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  |https://www.learncpp.com/ | learning | ★★★★☆ |
+ |https://www.fluentcpp.com/| learning | ★★★★☆ |
+
  
  ## SERVER
  * http://www.l2jserver.com/
