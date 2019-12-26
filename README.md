@@ -96,6 +96,7 @@
  * http://www.lewis-ward.com
  * https://nfrechette.github.io/
  * http://number-none.com/product/
+ * https://medium.com/unity3danimation/overview-of-jacobian-ik-a33939639ab2
  
  ## Games
  * https://gafferongames.com/
