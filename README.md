@@ -225,10 +225,11 @@
  | http://chrishecker.com/Miscellaneous_Technical_Articles  | Texture all stuff  | ★★★★★ |
  |  http://www.lysator.liu.se/~mikaelk/doc/perspectivetexture/  | Perspective texture mapping | ★★★★★ |
 
- ## MATH
+ ## MATH & Algorithm
  * http://mathinsight.org
  * http://immersivemath.com/ila/index.html
  * http://blackpawn.com/texts/pointinpoly/default.html
+ * https://programming.guide/
 
 
  | link       | keywords     | Stars     |
