@@ -11,6 +11,7 @@
  | https://www.thesimsresource.com | women, girl, hair | ★★★☆☆ |
  | http://www.newseasims.com/      | hair | ★★★☆☆ |
  | https://hatchful.shopify.com | logo | ★★★☆☆ |
+ | https://bitmidi.com/ | MIDI | ★★★☆☆ |
  
  ## Sounds
  * https://www.freesound.org
