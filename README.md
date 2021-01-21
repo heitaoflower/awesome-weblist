@@ -268,6 +268,8 @@
  * http://www.cvlibs.net/index.php
  * https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
  * http://www.mind.ilstu.edu/curriculum/chain_codes_intro/chain_codes_intro.php
+ * http://www.imageprocessingplace.com/downloads_V3/root_downloads/tutorials/contour_tracing_Abeer_George_Ghuneim/index.html
+ * http://users.utcluj.ro/~ancac/Resurse/PI/PI-L6e.pdf
  
  ## PAPERS
  | link       | keywords     | Stars     |
