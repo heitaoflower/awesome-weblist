@@ -30,6 +30,7 @@
  | https://amietia.com/virtualtexturing.html | virtual texture | ★★★☆☆ |
  | https://erkaman.github.io/index.html | geometry | ★★★★☆ |
  | https://paroj.github.io/gltut | geometry | ★★★★☆ |
+ |  http://karim.naaji.fr/blog | geometry | ★★★★☆ |
 
  * http://www.humus.name
  * http://felix.abecassis.me/
