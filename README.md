@@ -240,6 +240,7 @@
  * http://immersivemath.com/ila/index.html
  * http://blackpawn.com/texts/pointinpoly/default.html
  * https://programming.guide/
+ * https://gamemath.com/book/intro.html
 
 
  | link       | keywords     | Stars     |
