@@ -80,6 +80,7 @@
  | https://learnopengl.com         |tutorial            | ★★★☆☆ |
  | https://open.gl                 |tutorial            | ★★★☆☆ |
  | http://www.songho.ca/index.html |tutorial            | ★★★★☆ |
+ | https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html | tutorial | ★★★★☆ |
  
  
  * http://www.opengpu.org
