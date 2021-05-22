@@ -12,6 +12,8 @@
  | http://www.newseasims.com/      | hair | ★★★☆☆ |
  | https://hatchful.shopify.com | logo | ★★★☆☆ |
  | https://bitmidi.com/ | MIDI | ★★★☆☆ |
+ | https://icons8.com/ | ICON | ★★★☆☆ |
+ 
  
  ## Sounds
  * https://www.freesound.org
