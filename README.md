@@ -13,6 +13,7 @@
  | https://hatchful.shopify.com | logo | ★★★☆☆ |
  | https://bitmidi.com/ | MIDI | ★★★☆☆ |
  | https://icons8.com/ | ICON | ★★★☆☆ |
+ |  https://icon-icons.com/zh/ | ICON | ★★★☆☆ |
  
  
  ## Sounds
