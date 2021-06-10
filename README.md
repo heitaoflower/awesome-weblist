@@ -13,7 +13,9 @@
  | https://hatchful.shopify.com | logo | ★★★☆☆ |
  | https://bitmidi.com/ | MIDI | ★★★☆☆ |
  | https://icons8.com/ | ICON | ★★★☆☆ |
- |  https://icon-icons.com/zh/ | ICON | ★★★☆☆ |
+ | https://icon-icons.com/zh/ | ICON | ★★★☆☆ |
+ | https://www.freechinesefont.com/ | FONT | ★★★☆☆ |
+
  
  ## Voxelization
   | link       | keywords     | Stars     |
