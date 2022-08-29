@@ -21,6 +21,7 @@
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  | https://preshing.com/  | Thread | ★★★☆☆ |
+ | https://graphitemaster.github.io/fibers/ | Fiber | ★★★☆☆ |
  
  ## Voxelization
   | link       | keywords     | Stars     |
