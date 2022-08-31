@@ -22,6 +22,7 @@
  | :--------- | :-----------:| :-------: |
  | https://preshing.com/  | Thread | ★★★☆☆ |
  | https://graphitemaster.github.io/fibers/ | Fiber | ★★★☆☆ |
+ | https://blog.the-pans.com/std-atomic-from-bottom-up/ | Atomics | ★★★☆☆ |
  
  ## Voxelization
   | link       | keywords     | Stars     |
