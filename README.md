@@ -290,7 +290,8 @@
  ## Memory
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
- |   http://allenchou.net/memory-management-series/ | Allocator | ★★★★☆ |
+ | http://allenchou.net/memory-management-series/ | Allocator | ★★★★☆ |
+ | https://gist.github.com/simonrenger/d1da2a10d11f8a971fc6f1b574ab3e99| Allocator | ★★★★☆ |
 
  ## Botany
  * https://blog.csdn.net/Mahabharata_
@@ -298,7 +299,7 @@
  ## Skeleton
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
- |  http://visgraph.cse.ust.hk/projects/skeleton/ | Skeleton, Rigging | ★★★★☆ |
+ | http://visgraph.cse.ust.hk/projects/skeleton/ | Skeleton, Rigging | ★★★★☆ |
  
  ## CV
  * http://johnhany.net/
