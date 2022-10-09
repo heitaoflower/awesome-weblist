@@ -84,6 +84,7 @@
  | http://tfpsly.free.fr/bookmarks.html | MISC | ★★★☆☆ |
  | https://logins.github.io/graphics/2021/05/31/RenderGraphs.html| FrameGraph | ★★★☆☆ |
  | https://medium.com/@pavlo.muratov?source=post_page-----f3fd5f2c2af3--------------------------------| FrameGraph | ★★★☆☆ |
+ |  https://therealmjp.github.io/posts/| Barriers | ★★★☆☆ |
  
  ## Nvidia
  * https://developer.nvidia.com/
