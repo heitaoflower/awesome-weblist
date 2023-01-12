@@ -256,6 +256,9 @@
  ## JNI
  * http://blog.csdn.net/qinjuning/article/details/7607214
  
+ ## Memory
+ http://www.catb.org/esr/structure-packing/
+ 
  ## Texture
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
