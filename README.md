@@ -258,6 +258,7 @@
  
  ## Memory
  http://www.catb.org/esr/structure-packing/
+ https://norrischiu.github.io/2018/09/08/Cpp-jargon-1.html
  
  ## Texture
  | link       | keywords     | Stars     |
