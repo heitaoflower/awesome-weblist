@@ -249,6 +249,7 @@
  |https://www.fluentcpp.com/| learning | ★★★★☆ |
  |https://www.jonathanmueller.dev/ | learning | ★★★★☆ |
  |https://ericniebler.com/ | Async | ★★★★☆ |
+ | https://sean-parent.stlab.cc/| Future | ★★★★☆ |
 
  
  ## SERVER
