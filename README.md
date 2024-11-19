@@ -30,7 +30,7 @@
   ## ECS
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
- | https://preshing.com/  | ECS, Entt | ★★★★ |
+ | https://skypjack.github.io/tags/#ecs | ECS, Entt | ★★★★ |
 
  ## Voxelization
   | link       | keywords     | Stars     |
