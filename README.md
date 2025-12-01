@@ -360,3 +360,8 @@
  | http://www.big-dl.com/| PDF | ★★☆☆☆ |
  | https://epdf.tips/ | PDF | ★★★★☆ |
 
+  ## Machine Learning
+ | link       | keywords     | Stars     |
+ | :--------- | :-----------:| :-------: |
+ | [http://www.big-dl.com/](https://luweikxy.gitbook.io/machine-learning-notes/self-attention-and-transformer)| AI | ★★☆☆☆ |
+
