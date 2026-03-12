@@ -364,4 +364,5 @@
  | link       | keywords     | Stars     |
  | :--------- | :-----------:| :-------: |
  | [http://www.big-dl.com/](https://luweikxy.gitbook.io/machine-learning-notes/self-attention-and-transformer)| AI | ★★☆☆☆ |
+ | https://www.signalpop.com/2024/02/10/understanding-llama2-c-and-chatgpt-a-visual-design-walkthrough/#ref_tok| AI | ★★☆☆☆ |
 
